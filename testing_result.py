@@ -86,4 +86,4 @@ def testing_output(model_path='checkpoint/seed1.pth'):
 
 
 # full_dataset_evaluation()
-testing_output()
+# testing_output()
